@@ -50,6 +50,7 @@ osu!
 └───Screenshots
 └───Skins
 └───Songs
+|   ...
 |────────────────────────────────┐ 复制这六个文件到Atrias客户端文件夹内
 | osu!.<computer name>.cfg       │
 | osu!.cfg                       │
