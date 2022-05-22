@@ -92,38 +92,6 @@ Unstable Rate：[官方维基有关Unstable Rate的说明](https://osu.ppy.sh/wi
 
 可以让你在MP死亡时调整死亡提示的出现次数，不会那么烦人
 
-### OSU选项卡相关功能
-
-![OSU选项卡](osu%20option.png)
-
-`osu按键音效` 可以让你在游玩过程中空按键盘也有key音
-
-`osu滑条尾音效` 同上，为某些特殊人群定制
-
-`击中缩放特效大小倍率` 调整note击中时的扩散大小
-
-`击中缩放特效时间倍率` 调整note击中时的扩散时间
-
-`缩圈缩放倍率` 调整缩圈进入时离note的远近
-
-`缩圈淡入` 调整缩圈淡入的时间
-
-`Note淡入` 调整Note淡入的时间
-
-`缩圈淡入最终深度` 调整缩圈淡入是从多少透明度开始的
-
-### Relax选项卡相关功能
-
-![Relax选项卡](relax%20options.png)
-
-`Relax时显示Miss标记` 将miss加入到relax的游戏当中
-
-`Relax Mod允许Fail` 当血条清空时Relax会fail
-
-`Relax时显示边框` 在relax游玩时显示combo、分数等信息
-
-`Relax时保存成绩到本地` Relax游玩后自动保存成绩到本地，免去F2的麻烦
-
 ### 均衡器选项卡相关功能
 
 ![均衡器选项卡](均衡器选项卡.png)
@@ -176,6 +144,40 @@ Unstable Rate：[官方维基有关Unstable Rate的说明](https://osu.ppy.sh/wi
 
 # 亚托利选项卡相关功能
 
-![亚托利声音](Atri voice.png)
+![亚托利声音](Atri%20voice.png)
 
 请打开
+
+## OSU相关功能
+
+### OSU选项卡相关功能
+
+![OSU选项卡](osu%20option.png)
+
+`osu按键音效` 可以让你在游玩过程中空按键盘也有key音
+
+`osu滑条尾音效` 同上，为某些特殊人群定制
+
+`击中缩放特效大小倍率` 调整note击中时的扩散大小
+
+`击中缩放特效时间倍率` 调整note击中时的扩散时间
+
+`缩圈缩放倍率` 调整缩圈进入时离note的远近
+
+`缩圈淡入` 调整缩圈淡入的时间
+
+`Note淡入` 调整Note淡入的时间
+
+`缩圈淡入最终深度` 调整缩圈淡入是从多少透明度开始的
+
+### Relax选项卡相关功能
+
+![Relax选项卡](relax%20options.png)
+
+`Relax时显示Miss标记` 将miss加入到relax的游戏当中
+
+`Relax Mod允许Fail` 当血条清空时Relax会fail
+
+`Relax时显示边框` 在relax游玩时显示combo、分数等信息
+
+`Relax时保存成绩到本地` Relax游玩后自动保存成绩到本地，免去F2的麻烦
