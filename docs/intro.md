@@ -10,7 +10,7 @@ sidebar_position: 1
 
 由于本服的特殊性，不能使用您一直以来游玩的bancho官方客户端登录
 
-目前只有一种方式可以获得客户端本体，即加入我们的[QQ群](https://jq.qq.com/?_wv=1027&k=v5kNlF0G)
+目前只有一种方式可以获得客户端本体，即加入我们的[QQ群](https://jq.qq.com/?_wv=1027&k=QDRWXhBq)
 
 群文件客户端文件夹内通常会有三个文件
 
